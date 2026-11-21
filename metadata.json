@@ -1,0 +1,6 @@
+{
+  "name": "SiftLens",
+  "description": "Explore and analyse historical daily cryptocurrency prices, moving averages, trading volumes, volatility, and drawdowns across major fiat currencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
